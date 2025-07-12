@@ -17,7 +17,7 @@ export default function ContactForm() {
       {/* Hidden settings */}
       <input type="hidden" name="_captcha" value="false" />
       <input type="hidden" name="_subject" value="New message from Portfolio Contact Form" />
-      <input type="hidden" name="_next" value="https://arunk.dev/thank-you" />
+      <input type="hidden" name="_next" value="https://arunk-dev.vercel.app//thank-you" />
 
       <div>
         <label htmlFor="name" className="block text-sm font-medium text-zinc-300 mb-1.5">
