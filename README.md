@@ -71,7 +71,7 @@ To run this project locally, follow these simple steps:
 
 I'm currently seeking new opportunities as a Junior Developer. If you're interested in my work or have any questions, please feel free to connect with me!
 
-- **LinkedIn**: [Dương Hoàng Lan Anh](https://www.linkedin.com/in/arun-k19/)
+- **LinkedIn**: [Arun K](https://www.linkedin.com/in/arun-k19/)
 - **Email**: ksarun459@gmail.com
 
 Thank you for visiting my repository!
