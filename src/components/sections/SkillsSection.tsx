@@ -3,7 +3,6 @@
 import { motion } from "framer-motion";
 import { SectionHeading } from "@/components/SectionHeading";
 
-import { TbApi } from "react-icons/tb";
 import { VscBracketError } from "react-icons/vsc";
 import { MdOutlineImportantDevices } from "react-icons/md";
 import { CgFigma } from "react-icons/cg";
@@ -11,13 +10,9 @@ import { MdOutlineDesignServices } from "react-icons/md";
 import { TbDeviceImacCode } from "react-icons/tb";
 import {
   FaReact,
-  FaNodeJs,
   FaWordpressSimple,
   FaHtml5,
   FaCss3Alt,
-  FaGitAlt,
-  //FaFigma,
-  FaDocker,
   FaPython,
   FaJava
 } from "react-icons/fa";
@@ -29,11 +24,6 @@ import {
   SiTailwindcss,
   SiAdobexd,
   SiAdobephotoshop,
-  SiMongodb,
-  SiExpress,
-  SiPrisma,
-  SiMariadb,
-  SiMysql
 } from "react-icons/si";
 
 const skillCategories = [
