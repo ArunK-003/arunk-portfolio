@@ -76,7 +76,7 @@ const AboutMeSection = () => {
                 I specialize in modern UI/UX design using tools like <strong className="font-semibold text-white">Figma</strong> and <strong className="font-semibold text-white">Adobe XD</strong>. From wireframes to interactive prototypes, I focus on creating intuitive, accessible, and beautiful experiences.
               </p>
               <p className="text-lg text-zinc-300 mt-4 leading-relaxed lg:text-justify">
-                I'm eager to contribute to innovative projects that push boundaries. I thrive in collaborative teams, always learning and refining my approach. My goal is simple: build meaningful digital products that users love.
+                I am eager to contribute to innovative projects that push boundaries. I thrive in collaborative teams, always learning and refining my approach. My goal is simple: build meaningful digital products that users love.
               </p>
 
               {/* Info fields */}
