@@ -2,9 +2,9 @@
 
 [![Portfolio](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=vercel)](https://arunk-dev.vercel.app/)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-dhlananh-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arun-k19/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-arun-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arun-k19/)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-dhlananhh-green?style=for-the-badge&logo=github)](https://github.com/ArunK-003/)
+[![GitHub](https://img.shields.io/badge/GitHub-arun-green?style=for-the-badge&logo=github)](https://github.com/ArunK-003/)
 
 ## 1. Project Overview
 
