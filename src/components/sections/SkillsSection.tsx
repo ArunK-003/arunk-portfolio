@@ -17,7 +17,6 @@ import {
   FaJava
 } from "react-icons/fa";
 import {
-  SiNextdotjs,
   SiCanva,
   SiTypescript,
   SiJavascript,
