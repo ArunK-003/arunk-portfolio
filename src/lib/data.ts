@@ -87,7 +87,7 @@ export const projectsData: Project[] = [
     slug: "vibeshare-music-sharing-app",
     shortDescription: "A collaborative music-sharing app where users upload and enjoy songs together in real-time rooms.",
     description: "VibeShare is a full-stack music-sharing application where users can create or join rooms, upload their favorite songs, and enjoy music together in a round-robin playlist. Built using React, Supabase, and Tailwind CSS, it offers smooth authentication, responsive UI, and admin controls for managing room dynamics. This app is designed for collaborative listening, making music more social and immersive.",
-    imageUrl: "vibeshare-land.png",
+    imageUrl: "/images/vibeshare-land.png",
     githubUrl: "https://github.com/ArunK-003/VibeShare",
     tools: [ "React", "Supabase", "Tailwind CSS", "Vercel", "React Router" ],
     category: "Full Stack",
@@ -101,7 +101,7 @@ export const projectsData: Project[] = [
     "Admin controls: set song limit, delete any song",
     "Responsive UI built with Tailwind and React Router",
     "Realtime data handling using Supabase" ],
-    galleryImages: [ "vibeshare-dash.png" ]
+    galleryImages: [ "/images/vibeshare-dash.png" ]
   },
   /*{
     id: "5",
