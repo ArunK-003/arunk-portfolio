@@ -10,6 +10,7 @@ import { MdOutlineDesignServices } from "react-icons/md";
 import { TbDeviceImacCode } from "react-icons/tb";
 import { TbBrandAdobeXd } from "react-icons/tb";
 import { TbBrandAdobePhotoshop } from "react-icons/tb";
+import { SiCanvas } from "react-icons/si";
 import {
   FaReact,
   FaWordpressSimple,
@@ -19,7 +20,6 @@ import {
   FaJava
 } from "react-icons/fa";
 import {
-  SiCanvas,
   SiTypescript,
   SiJavascript,
   SiTailwindcss,
@@ -30,10 +30,10 @@ const skillCategories = [
     title: "UI UX Design",
     skills: [
       { name: "Figma", icon: <CgFigma className="h-8 w-8 text-[#F24E1E]" /> },
-      { name: "Adobe XD", icon: <SiAdobexd className="h-8 w-8 text-[#C084FC]" /> },
-      { name: "Canva", icon: <SiCanva className="h-8 w-8 text-[#00C4CC]" /> },
+      // { name: "Adobe XD", icon: <SiAdobexd className="h-8 w-8 text-[#C084FC]" /> },
+      // { name: "Canva", icon: <SiCanva className="h-8 w-8 text-[#00C4CC]" /> },
       { name: "WordPress", icon: <FaWordpressSimple className="h-8 w-8 text-[#21759B]" /> },
-      { name: "PhotoShop", icon: <SiAdobephotoshop className="h-8 w-8 text-[#31A8FF]" /> },
+      // { name: "PhotoShop", icon: <SiAdobephotoshop className="h-8 w-8 text-[#31A8FF]" /> },
       { name: "Prototyping", icon: <TbDeviceImacCode className="h-10 w-10 text-pink-400" /> },
       { name: "Wireframing", icon: <MdOutlineDesignServices className="h-8 w-8 text-purple-400" /> },
       { name: "Responsive Design", icon: <MdOutlineImportantDevices className="h-8 w-8 text-rose-400" /> },
