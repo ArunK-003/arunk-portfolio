@@ -8,9 +8,6 @@ import { MdOutlineImportantDevices } from "react-icons/md";
 import { CgFigma } from "react-icons/cg";
 import { MdOutlineDesignServices } from "react-icons/md";
 import { TbDeviceImacCode } from "react-icons/tb";
-import { TbBrandAdobeXd } from "react-icons/tb";
-import { TbBrandAdobePhotoshop } from "react-icons/tb";
-import { SiCanvas } from "react-icons/si";
 import {
   FaReact,
   FaWordpressSimple,
