@@ -85,7 +85,7 @@ const certifications = [
     issuer: "Coursera",
     description: "",
     duration: "",
-    imageUrl: "/images/In process.jpg",
+    imageUrl: "public/images/projects/Coursera-Foundation of UX.jpg.jpeg",
   },
 ];
 
