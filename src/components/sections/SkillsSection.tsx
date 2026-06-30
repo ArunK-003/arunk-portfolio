@@ -8,6 +8,8 @@ import { MdOutlineImportantDevices } from "react-icons/md";
 import { CgFigma } from "react-icons/cg";
 import { MdOutlineDesignServices } from "react-icons/md";
 import { TbDeviceImacCode } from "react-icons/tb";
+import { TbBrandAdobeXd } from "react-icons/tb";
+import { TbBrandAdobePhotoshop } from "react-icons/tb";
 import {
   FaReact,
   FaWordpressSimple,
@@ -17,12 +19,10 @@ import {
   FaJava
 } from "react-icons/fa";
 import {
-  SiCanva,
+  SiCanvas,
   SiTypescript,
   SiJavascript,
   SiTailwindcss,
-  SiAdobexd,
-  SiAdobephotoshop,
 } from "react-icons/si";
 
 const skillCategories = [
