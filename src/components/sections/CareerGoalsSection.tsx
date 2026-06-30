@@ -85,7 +85,7 @@ const certifications = [
     issuer: "Coursera",
     description: "Completed a Course on Google UX Professional Certificate and understand the User Experiences",
     duration: "Feb, 2025",
-    imageUrl: "public/images/projects/Coursera-Foundation of UX.jpeg",
+    imageUrl: "public/images/Coursera-Foundation of UX.jpg",
   },
 ];
 
